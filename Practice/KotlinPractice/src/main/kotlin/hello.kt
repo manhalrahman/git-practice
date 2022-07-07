@@ -15,7 +15,7 @@ fun main() {
     } finally {
         println("this is the finally block")
     }
-    println("You ente")
+    println("You entered $input")
 
 }
 
